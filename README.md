@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MrValere
 - 👀 I’m interested in developement
-- 🌱 I’m currently learning Python, JavaScript, Java and SQL
+- /!\ I already know Python, JavaScript and SQL
+- 🌱 I’m currently learning Java, C and C#
 
 <!---
 MrValere/MrValere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
